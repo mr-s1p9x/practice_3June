@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.28)
+project(practice_3June)
+
+set(CMAKE_CXX_STANDARD 17)
+
+#add_executable(practice_3June main.cpp)
+#add_executable(practice_3June pointers_1.cpp)
+#add_executable(practice_3June pointers_2.cpp)
+#add_executable(practice_3June pointers_3.cpp)
+#add_executable(practice_3June pointers_Increment.cpp)
+#add_executable(practice_3June pointers_Constant.cpp)
+#add_executable(practice_3June pointers_Constant_pointer.cpp)
+#add_executable(practice_3June pointers_Functions.cpp)
+#add_executable(practice_3June function_ChangeValue.cpp)
+#add_executable(practice_3June practice_PointersFunction.cpp)
+add_executable(practice_3June practice_Pointers_2.cpp)

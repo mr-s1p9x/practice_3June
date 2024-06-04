@@ -1,0 +1,18 @@
+# ninja log v5
+4	487	1717410809807172959	CMakeFiles/practice_3June.dir/pointers_1.cpp.o	3588f567450509cd
+3	308	1717409846042438883	CMakeFiles/practice_3June.dir/main.cpp.o	f090ab7c8712062c
+3	482	1717437774336903591	CMakeFiles/practice_3June.dir/pointers_Constant.cpp.o	5fdc93065f05a8f
+3	551	1717448413473543695	CMakeFiles/practice_3June.dir/pointers_Functions.cpp.o	c2349b9b71fd9ada
+424	543	1717488253872785759	practice_3June	fadcfb1136710888
+3	486	1717412230232833894	CMakeFiles/practice_3June.dir/pointers_2.cpp.o	d427c09bb7e7ac13
+4	623	1717426528325476970	CMakeFiles/practice_3June.dir/pointers_3.cpp.o	888658b2a971017d
+2	268	1717451710905863981	CMakeFiles/practice_3June.dir/function_ChangeValue.cpp.o	5b4ca4ca6fac8ab1
+1	423	1717488253752687299	CMakeFiles/practice_3June.dir/practice_PointersFunction.cpp.o	17eff1a4c2013f6
+3	564	1717432296214087738	CMakeFiles/practice_3June.dir/pointers_Increment.cpp.o	5781cb4881cf2e5c
+1	543	1717491048562411368	CMakeFiles/practice_3June.dir/practice_Pointers_2.cpp.o	62c32f5d55e64d97
+5	547	1717491150430871173	CMakeFiles/practice_3June.dir/practice_Pointers_2.cpp.o	62c32f5d55e64d97
+548	648	1717491150532821806	practice_3June	61b546caeafc8a99
+5	506	1717491184305782644	CMakeFiles/practice_3June.dir/practice_Pointers_2.cpp.o	62c32f5d55e64d97
+507	541	1717491184342037379	practice_3June	61b546caeafc8a99
+3	569	1717492364308068517	CMakeFiles/practice_3June.dir/practice_Pointers_2.cpp.o	62c32f5d55e64d97
+569	685	1717492364422240633	practice_3June	61b546caeafc8a99
